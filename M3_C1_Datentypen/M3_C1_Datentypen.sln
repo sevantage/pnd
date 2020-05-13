@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equality", "Equality\Equality.csproj", "{1D39016E-6D04-42FA-9762-E2C0580D7AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Immutable", "Immutable\Immutable.csproj", "{5420E14C-E4EB-46BB-AA30-66A73FB63072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticTypes", "SemanticTypes\SemanticTypes.csproj", "{391652D4-6203-4B82-B6A3-67A7C41ABE1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D39016E-6D04-42FA-9762-E2C0580D7AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D39016E-6D04-42FA-9762-E2C0580D7AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D39016E-6D04-42FA-9762-E2C0580D7AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D39016E-6D04-42FA-9762-E2C0580D7AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5420E14C-E4EB-46BB-AA30-66A73FB63072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5420E14C-E4EB-46BB-AA30-66A73FB63072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5420E14C-E4EB-46BB-AA30-66A73FB63072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5420E14C-E4EB-46BB-AA30-66A73FB63072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391652D4-6203-4B82-B6A3-67A7C41ABE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391652D4-6203-4B82-B6A3-67A7C41ABE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391652D4-6203-4B82-B6A3-67A7C41ABE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391652D4-6203-4B82-B6A3-67A7C41ABE1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

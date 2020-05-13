@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<orders>
+  <order custno="KND1234" date="2013-10-01">
+    <pos itemno="A1234" quantity="5" price="70" />
+    <pos itemno="A1235" quantity="7" price="5" />
+  </order>
+  <order custno="KND1235" date="2014-01-07">
+    <pos itemno="A1234" quantity="2" price="65" />
+  </order>
+  <order custno="KND1234" date="2014-10-12">
+    <pos itemno="A1235" quantity="7" price="5" />
+    <pos itemno="B2345" quantity="1" price="7" />
+    <pos itemno="C4321" quantity="70" price="20" />
+  </order>
+</orders>
